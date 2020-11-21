@@ -1,1 +1,1 @@
-proyecto de automaticion de ticket a base de datos
+proyecto de automaticion de ticket a base de datos .
